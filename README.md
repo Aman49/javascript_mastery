@@ -1,2 +1,2 @@
 # javascript_mastery
-Learn Javascript from youtube channel code with chai
+THis is the best js series I have seen
